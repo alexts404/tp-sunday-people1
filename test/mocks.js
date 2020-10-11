@@ -6,8 +6,8 @@ const mocks = {
   pileTwo: '3,6,4,8,9,0,10,2',
   emptyPile: '0',
   weirdObject: {
-    {hey: 'whats up'},
-    {hallo:'was gehts'}
+    hey: 'whats up',
+    hallo:'was gehts'
   }
 };
 
