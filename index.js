@@ -24,7 +24,7 @@ Etc.
 The function should return the two values in an array with two elements: [beggarValue1, beggarValue2]
 */
 
-function beggarsProblem () {
+function beggarsProblem (gold) {
   // implement function here
 }
 
